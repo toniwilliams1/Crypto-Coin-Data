@@ -8,7 +8,7 @@ Users will enter the name of an alcoholic beverage, and will retrieve the instru
 
 ## Acknowledgements 
  
- - [Font Awesome](https://fontawesome.com/)
+ 
 
 
 ## Contributing
