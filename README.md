@@ -1,4 +1,4 @@
-# Foreign-Exchange-Rates 📈📉
+# Crypto Coin Data📈📉
 
 Users will enter the name of a crypto coin, and will retrieve the information on their coin including the houlr raye, price, market cap, etc.
 
