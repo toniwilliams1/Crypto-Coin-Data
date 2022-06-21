@@ -1,7 +1,6 @@
 # Foreign-Exchange-Rates 📈📉
 
-Users will enter the name of an alcoholic beverage, and will retrieve the instructions on how to make the drink, ingredients needed to make the drink, and the needed measurements. Users will also be able to scroll through a variety of drinks. Don't know what drink to choose? We have a "Random Drink Me" button that will select one at random. 
-
+Users will enter the name of a crypto coin, and will retrieve the information on their coin including the houlr raye, price, market cap, etc.
 
 ## View the live site here: 
 
