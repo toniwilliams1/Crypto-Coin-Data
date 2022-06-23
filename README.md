@@ -1,6 +1,6 @@
 # Crypto Coin Data📈📉
 
-Users will enter the name of a crypto coin, and will retrieve the information on their coin including the houlr raye, price, market cap, etc.
+Users will enter the name of a crypto coin, and will retrieve the information on their coin including the hourly rate, price, market cap, etc.
 
 ## View the live site here: 
 
