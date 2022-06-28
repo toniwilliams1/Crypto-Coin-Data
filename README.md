@@ -2,7 +2,7 @@
 
 Users will enter the name of a crypto coin, and will retrieve the information on their coin including the hourly rate, price, market cap, etc.
 
-## View the live site here: (https://cryptocoindata.netlify.app/)
+## View the live site here: 
 https://cryptocoindata.netlify.app/
 
 ## Acknowledgements 
