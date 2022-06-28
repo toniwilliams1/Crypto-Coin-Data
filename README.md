@@ -5,7 +5,7 @@ This is a full-stack web application will enter the name of a crypto coin, and w
 ## View the Live Site Here: 
 https://cryptocoindata.netlify.app/
 
-## Acknowledgements 
+## Acknowledgements:
  - [CoinLib API](https://coinlib.io/apidocs)
 
 ## How It's Made:
