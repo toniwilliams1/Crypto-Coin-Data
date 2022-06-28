@@ -8,7 +8,7 @@ https://cryptocoindata.netlify.app/
 ## Acknowledgements 
  CoinLib
 
-##How It's Made
+## How It's Made
 Tech Used: HTML, CSS, JavaScript, NodeJS, MongoDB
 Why was this stack chosen?
 
