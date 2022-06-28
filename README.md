@@ -6,11 +6,13 @@ Users will enter the name of a crypto coin, and will retrieve the information on
 https://cryptocoindata.netlify.app/
 
 ## Acknowledgements 
- CoinLib
+ CoinLib API (https://coinlib.io/apidocs)
 
 ## How It's Made
 Tech Used: HTML, CSS, JavaScript, NodeJS, MongoDB
+
 Why was this stack chosen?
+
 
 ## Contributing
 
