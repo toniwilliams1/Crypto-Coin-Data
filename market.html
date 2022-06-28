@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head> 
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" href="https://glitch.com/favicon.ico" />
+    <title>Hello World!</title>
+    <!-- Meta tags for SEO and social sharing -->
+    <link rel="canonical" href="https://glitch-hello-website.glitch.me/" />
+    <meta
+      name="description"
+      content="A simple website, built with Glitch. Remix it to get your own."
+    />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:title" content="Hello World!" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://glitch-hello-website.glitch.me/" />
+    <meta
+      property="og:description"
+      content="A simple website, built with Glitch. Remix it to get your own."
+    />
+    <meta
+      property="og:image"
+      content="https://cdn.glitch.com/605e2a51-d45f-4d87-a285-9410ad350515%2Fhello-website-social.png?v=1616712748147"
+    />
+    <meta name="twitter:card" content="summary" />
+
+    <!-- Import the webpage's stylesheet -->
+    <link rel="stylesheet" href="/style.css" />
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@1,100&family=Bungee+Hairline&family=Kdam+Thmor+Pro&display=swap" rel="stylesheet">
+    <!-- Import the webpage's javascript file -->
+        <script src="https://kit.fontawesome.com/71d3788d75.js" crossorigin="anonymous"></script>
+    <script src="/script.js" defer></script>
+  </head>
+  <body>
+    
+    <!-- Nav Bar -->
+      <ul>
+<li><a href="index.html">Home</a></li>
+  <li><a href="forum.html">Forum</a></li>
+  <li class="active"><a href="market.html">Markets</a></li>
+</ul>
+        
+    <!-- User Input --> 
+    <input type="input" placeholder="Enter a Coin" />
+    
+   <!--Dropdown --> 
+     <div class="dropdown">
+  <button onclick="myFunction()" class="dropbtn">Filter <i class="fa-solid fa-bars-filter"></i></button>
+  <div id="myDropdown" class="dropdown-content">
+        <a href="#" id="info"> All  </a>
+
+    <a href="#" id="hourly"> Hourly  </a>
+    <a href="#" id="price">Market</a>
+    <a href="#" id="exchanges">Price</a>
+  </div>
+    </div>
+ 
+
+    <!-- Hourly Data -->
+
+    <h2> </h2>
+
+    <div class="table-wrapper" id="fl-table">
+      <table class="fl-table">
+        <thead>
+          <tr>
+            <th>1H</th>
+            <th>7D</th>
+            <th>24H</th>
+            <th>30 Day</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><p class="delta_1h"></p></td>
+            <td><p class="delta_7d"></p></td>
+            <td><p class="delta_24h"></p></td>
+            <td><p class="delta_30d"></p></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <!-- Coin Data -->
+
+    <h3 class="your_coin"></h3>
+
+    <div class="table-wrapper"  >
+      <table id="fl-table1" class="fl-table1" >
+        <thead>
+          <tr>
+            <th>Price</th>
+            <th>Rank</th>
+            <th>Volume 24 H</th>
+            <th>Market Cap</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><p class="price"></p></td>
+
+            <td><p class="rank"></p></td>
+            <td><p class="volume_24h"></p></td>
+            <td><p class="market_cap"></p></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <!-- Market Data -->
+
+    <h4 class="symbol"></h4>
+
+    <div class="table-wrapper" id="fl-table2">
+      <table class="fl-table2">
+        <thead>
+          <tr>
+            <th>Name</th>
+            <th>Price</th>
+            <th>Volume 24 H</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><p class="exchangeName"></p></td>
+            <td><p class="exchangePrice"></p></td>
+            <td><p class="exchangeVolume"></p></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <p class="last_updated_timestamp"></p>
+  </body>
+</html>
