@@ -9,7 +9,7 @@ https://cryptocoindata.netlify.app/
  - [CoinLib API](https://coinlib.io/apidocs)
 
 ## How It's Made:
-Tech Used: HTML, CSS, JavaScript, NodeJS, MongoDB, Express
+Tech Used: HTML, CSS, JavaScript, Node.js, MongoDB, Express
 
 Why was this stack chosen?
 
@@ -23,7 +23,7 @@ See `contributing.md` for ways to get started.
 Please adhere to this project's `code of conduct`.
 
 ## Lessons Learned:
-This app taught me how to use JavaScript on the back-end with NodeJS. I learned how to build my own API and use CRUD functionalities.
+This app taught me how to use JavaScript on the backend with Node.js. I learned how to build my own API and use CRUD functionalities.
 
 ## Authors:
 
