@@ -1,4 +1,4 @@
-# Crypto Coin Data📈📉
+# Crypto Corner📈📉
 
 This is a full-stack web application will enter the name of a crypto coin, and will retrieve the information on their coin including the hourly rate, price, market cap, etc.
 
