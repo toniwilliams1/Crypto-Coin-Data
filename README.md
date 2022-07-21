@@ -1,6 +1,6 @@
 # Crypto Corner📈📉
 
-This is a full-stack web application will enter the name of a crypto coin, and will retrieve the information on their coin including the hourly rate, price, market cap, etc.
+This is a full-stack web application where users must first register for an acocunt. Once they have logged in, they will be able enter the name of any crypto coin of their choice, and in turn will retrieve the information on their coin including the hourly rate, price, market cap, etc. Users are also allowed to post predictions of market data in our forum.
 
 ## View the Live Site Here: 
 https://cryptocoindata.netlify.app/
@@ -11,7 +11,7 @@ https://cryptocoindata.netlify.app/
 ## How It's Made:
 Tech Used: HTML, CSS, JavaScript, Node.js, MongoDB, Express
 
-Why was this stack chosen?
+## Why Was This Stack Chosen?
 This stack was chosen because in order to run JavaScript on the browser, I neede dto use Node.js. I also used MongoDB as my database to create the CRUD functionality of the forum chat. HTML/CSS, JavaScript are all used on the frontend.
 
 ## Contributing:
