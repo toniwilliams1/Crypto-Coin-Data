@@ -12,7 +12,7 @@ https://cryptocoindata.netlify.app/
 Tech Used: HTML, CSS, JavaScript, Node.js, MongoDB, Express
 
 Why was this stack chosen?
-
+This stack was chosen because in order to run JavaScript on the browser, I neede dto use Node.js. I also used MongoDB as my database to create the CRUD functionality of the forum chat. HTML/CSS, JavaScript are all used on the frontend.
 
 ## Contributing:
 
